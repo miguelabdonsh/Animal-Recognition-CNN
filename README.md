@@ -8,6 +8,6 @@ The first model is an initial CNN approach that classifies images into 10 differ
 
 ### Model 2
 
-The second model proposes design changes based on the results and analysis of the first model. The objective is to improve the performance of the classification by applying relevant concepts and techniques discussed in class.
+The second model proposes design changes based on the results and analysis of the first model. The objective is to enhance the classification performance and achieve further advancements in the model.
 
 Here is the link to download the dataset: [Dataset Download Link](https://www.kaggle.com/competitions/u-tadanimalcnn/data)
